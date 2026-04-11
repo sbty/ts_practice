@@ -1,0 +1,26 @@
+{
+    "name": "day07-web-todo",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "vitest run",
+        "prepare": "husky"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/express": "^5.0.6",
+        "@types/node": "^25.5.2",
+        "husky": "^9.1.7",
+        "ts-node": "^10.9.2",
+        "tsx": "^4.21.0",
+        "typescript": "^6.0.2",
+        "vitest": "^4.1.4"
+    },
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
